@@ -26,5 +26,7 @@ O site apresenta informações sobre o mundo das focas, utilizando conceitos fun
 ## Como executar o projeto
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/allanamatias/seal-world-project.git
+git clone https://github.com/allanamatias/seal-world-site.git
+
+2. Projeto online:
+https://allanamatias.github.io/seal-world-site/
