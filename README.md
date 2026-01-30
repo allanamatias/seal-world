@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso de Desenvolvimento Full Stack JavaScript da Onebitcode, com foco na prática e domínio de **CSS3**.
 
-O site apresenta informações sobre o mundo das focas, utilizando conceitos modernos de layout, responsividade e organização visual.
+O site apresenta informações sobre o mundo das focas, utilizando conceitos fundamentais de layout, responsividade e organização visual.
 
 ## Tecnologias utilizadas
 
